@@ -7,8 +7,9 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return DefaultLayout(
-        child: Column(
-      children: [],
-    ));
+      child: Column(
+        children: [],
+      ),
+    );
   }
 }
